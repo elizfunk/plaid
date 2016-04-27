@@ -1,3 +1,5 @@
+/* uncomment any .plaid class to display in browser */
+
 body {
   width: 900px;
   height: 900px;
@@ -8,6 +10,7 @@ body {
 	background-color: orange;
 }
 */
+
 /* top down linear gradient */
 /*.plaid {
 	background-image: linear-gradient(red, orange);
@@ -128,17 +131,13 @@ body {
     radial-gradient(
       rgba(0,0,0,0),
       black
+    ),radial-gradient(
+      rgba(0,0,0,0),
+      black
     ),
     url(../images/truck.jpeg)
   ;
 }*/
-/*
-    radial-gradient(
-      rgba(0,0,0,0),
-      black
-    ),
-
-    */
 
 /* combining repeating linear gradients to create diamonds */
 
